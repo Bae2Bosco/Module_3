@@ -1,0 +1,22 @@
+html{
+    background-color: grey;
+}
+
+
+nav{
+    height: 80px;
+    width: 100px;
+    background-color: white;
+    border-bottom: black;
+    position: fixed;
+    box-shadow: 8px;
+}
+nav{
+    height: 80px;
+    width: 80px;
+    background-color: black;
+    text-align: right;
+    position: fixed;
+}
+
+
