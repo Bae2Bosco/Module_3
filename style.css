@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+}
+
+html{
+    height: 150%;
+    background-color: orange;
+}
+
+.wrapper{
+    background-color: azure;
+    box-sizing: border-box;
+    padding-top: 80px;
+    padding-left: 8px;
+    text-align: center;
+    font-size: smaller;
+}
+
+
+
+nav{
+    height: 80px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: grey;
+    color: white;
+    box-sizing: border-box;
+    padding: 20px 8px;
+}
+
+h1,h2,h3{
+    margin-bottom: 16px;
+    color: red;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    margin-right: 15px;
+}
+p{
+    background-color: azure;
+    margin-bottom: 20px;
+}
+img{
+    background-color: azure;
+    height: 200px;
+}
